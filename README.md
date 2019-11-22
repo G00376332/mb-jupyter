@@ -1,2 +1,2 @@
 # mb-jupyter
-Jupyter project
+Jupyter project test
